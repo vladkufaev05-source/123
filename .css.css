@@ -88,7 +88,7 @@ a {
     text-decoration: none;
 }
 .description {
-    color: rgba(0, 0, 0, 0.4);
+    icolor: rgba(0, 0, 0, 0.4);
 }
 .description a {
     color: rgba(0, 0, 0, 0.4);
